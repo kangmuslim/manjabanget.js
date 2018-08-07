@@ -1,0 +1,2 @@
+# manjabanget.js
+manjabanget
